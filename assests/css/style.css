@@ -1,0 +1,138 @@
+.r-1{
+    margin-top:50px !important;
+}
+.ci-2{
+   position: relative;
+   top:120px;
+   left:75px;
+}
+.ci-3{
+    position: relative;
+    left:200px;
+    bottom:60px;
+}
+.ci-4{
+    position: relative;
+    bottom: 165px;
+}
+.ci-5{
+    position: relative;
+    bottom:245px;
+    right:215px;
+}
+.ci-6{
+    position: relative;
+    left:205px;
+    bottom:435px;
+}
+.ci-7{
+    position: relative;
+    bottom:525px;
+}
+.lg{
+    color: #42e8e0;
+    position: absolute;
+    top:70px;
+    left: 505px;
+}
+.par1{
+    color: #42e8e0;
+    position: absolute;
+    bottom: 120px !important;
+    left: 514px !important;
+}
+.parsub1{
+    position: absolute;
+    bottom: 20px !important;
+    left: 495px !important;
+    font-size: 12px;
+}
+.par2{
+    color: #42e8e0;
+    position: absolute;
+    bottom: 110px !important;
+    left: 230px !important;
+}
+.parsub2{
+    position: absolute;
+    bottom: 30px !important;
+    left: 210px !important;
+    font-size: 12px;
+}
+.par3{
+    color: #322359;
+    position: absolute;
+    bottom: 120px !important;
+    left:510px !important;
+}
+.parsub3{
+    color: #322359 !important;
+    position: absolute;
+    bottom:30px !important;
+    left:490px !important;
+    font-size: 12px;
+}
+.par4{
+    color: #42e8e0;
+    position: absolute;
+    bottom: 120px !important;
+    left: 505px !important;
+}
+.parsub4{
+    position: absolute;
+    bottom: 30px !important;
+    left: 490px !important;
+    font-size: 12px;
+}
+.par5{
+    color: #42e8e0;
+    position: absolute;
+    bottom:130px !important;
+    left: 535px !important;
+}
+.parsub5{
+    position: absolute;
+    bottom: 30px !important;
+    left: 485px !important;
+    font-size: 12px;
+}
+.par6{
+    color: #42e8e0;
+    position: absolute;
+    bottom: 130px !important;
+    left: 505px !important;
+}
+.parsub6{
+    position: absolute;
+    bottom: 30px !important;
+    left: 485px !important;
+    font-size: 12px;
+}
+.circle2{
+    position: absolute;
+    bottom:-1px !important;
+    left:180px !important;
+}
+
+.adds{
+    width: 267px;
+    height:480px;
+    border:2px solid #42e8e0;
+    border-right:0.5px;
+    border-top-left-radius:20px;
+    border-bottom-left-radius: 20px;
+}
+.mails{
+    border-left:0.5px;
+    border:2px solid #42e8e0;
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+}
+.wayses{
+    border:1px solid #6d0dac;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+}
+#digi{
+    background-image: url(/assests/homepage/vectors/wave.png);
+}
