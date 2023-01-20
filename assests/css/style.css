@@ -133,6 +133,340 @@
     border-top-left-radius: 20px;
     border-top-right-radius:20px;
 }
-#digi{
-    background-image: url(/assests/homepage/vectors/wave.png);
+@media screen and (max-width:540px){
+    .wavecnts h1{
+        padding-top:-60px!important;
+        font-size:40px!important;
+        padding-left:15px!important;
+    }
+    .wavecnts p{
+        padding-left:15px!important;
+    }
+    .two-bt{
+        height:40px!important;
+        width:70!important;
+        margin-left:8%!important;
+    }
+    .get{
+        height:40px!important;
+        width:70!important;
+        margin-left:8%!important;
+    }
+    .watchbtn{
+        margin-top:5px!important;
+        margin-left:45%!important;
+    }
+    .watchbtn p{
+        padding-top:40px!important;
+        padding-left:120px!important;
+    }
+    .wrd h1{
+        font-size:45px!important;
+    }
+    .quantam img{
+        margin-left:135px!important;
+        margin-top:-20%!important;
+        height:180px!important;
+        width:250px!important;
+    }
+    .ttns h1{
+        padding-top:15px!important;
+        font-size:35px!important;
+    }
+    .bitfixrow{
+        margin-left:-118px!important;
+    }
+    .highestrow h1{
+        font-size:40px!important;
+    }
+    .firbxs{
+        margin-left:-10px!important;
+        height:90px!important;
+        width:300px!important; 
+    }
+    .firbxs h6{
+        font-size:13px!important;
+    }
+    .firbxs p{
+        font-size:9px!important;
+    }
+    .secbxs{
+        margin-left:-10px!important;
+        height:95px!important;
+        width:300px!important;
+    }
+    .secbxs h6{
+        font-size:14px!important;
+       
+    }
+    .secbxs p{
+        font-size:9px!important;
+    }
+    .arrbx{
+        height:90px!important;
+        width:60px!important;
+       margin-left:84%!important;
+      margin-top:-90px!important;
+    }
+    .arrbx2{
+        height:95px!important;
+        width:60px!important;
+       margin-left:84%!important;
+      margin-top:-95px!important;
+    }
+    .arrbx3{
+        height:95px!important;
+        width:60px!important;
+       margin-left:84%!important;
+      margin-top:-95px!important;
+    }
+    .wavephone img{
+        margin-top:15%!important;
+        height:230px!important;
+        width:325px!important;
+    }
+    .explorerow h1{
+        font-size:40px!important;
+    }
+    .exp img{
+        width:15rem;
+    }
+    .tight h1{
+        font-size:40px!important;
+    }
+    .tradewords h1{
+        font-size:40px!important;
+        margin-left:-70px!important;
+    }
+    .thrr{
+        margin-left:-24px!important;
+    }
+    .startwords h1{
+        font-size:40px!important;
+        margin-left:-70px!important;
+    }
+    .startwords p{
+        margin-left:-70px!important;
+    }
+    .best h1{font-size:40px!important;}
+    .best{
+        margin-top:40px!important;
+        margin-left:-45%!important;
+    }
+    .trustedrow h1{
+        margin-top:-10%!important;
+        font-size:40px!important;
+    }
+    .tradind h1{
+        margin-top:-18%!important;
+        font-size:39px!important;
+    }
+    .build h1{
+        font-size:40px!important;
+    }
+    .sheildbox,.bitcoin,.manbox{
+        width:180px!important;
+        height:190px!important;
+        margin-left:22%!important;
+    }
+    .bitcoin{
+        margin-top:28px!important;
+        margin-left:75px!important;
+    }
+    .blackbx11{
+        margin-top:10px!important;
+    }
+   .blackbx22{
+    margin-top:20px!important;
+   }
+   .ins{
+    margin-left:-11px!important;;
+    width:330px!important;
+   }
+   .wayses{
+    height:300px!important;
+    width:500px!important;
+   }
+   .pipe{
+    margin-top:50px!important;
+    margin-left:10px!important;
+    height:180px!important;
+    width:300px!important;
+   }
+   .pusrse img{
+    margin-left:2px!important;
+    margin-top:-370px!important;
+    width:40px!important; height:40px!important;
+   }
+   .pusrse h3{
+    font-size:10px!important;
+    margin-top:-170px!important;
+   }
+   .pusrse p{
+    font-size:7px!important;
+   }
+   .admins img{
+    margin-left:120px!important;
+    margin-top:-405px!important;
+    width:60px!important; height:60px!important;
+   }
+   .admins h3{
+    font-size:10px!important;
+    margin-left:130px!important;
+    margin-top:-190px!important;
+   }
+   .admins p{
+    font-size:7px!important;
+    margin-left:110px!important;
+   }
+   .wallet img{
+    margin-left:240px!important;
+    margin-top:-435px!important;
+    width:60px!important; height:60px!important;
+   }
+   .wallet h3{
+    font-size:10px!important;
+    margin-top:-200px!important;
+    margin-left:242px!important;
+   }
+   .wallet p{
+    font-size:7px!important;
+    margin-top:-2px!important;
+    margin-left:225px!important;
+   }
+   .linus img{
+    margin-left:200px!important;
+    margin-top:-145px!important;
+    width:45px!important; height:45px!important;
+   }
+   .linus h3{
+    font-size:10px!important;
+    margin-top:-60px!important;
+    margin-left:210px!important;
+   }
+   .linus p{
+    font-size:7px!important;
+    margin-top:2px!important;
+    margin-left:180px!important;
+   }
+   .expand h1{
+    font-size:40px!important;
+   }
+   .firpurbx{
+    margin-top:-25%!important;
+    margin-left:20px!important;
+   }
+   .neonbx{
+    margin-left:8%!important;
+    margin-top:10%!important;
+   }
+   .bin{
+    margin-left:130px!important;
+   }
+   .bmc{
+    padding-top:2px!important;
+    padding-bottom:2px!important;
+   }
+   .sier{
+    padding-top:2px!important;
+   }
+   .look h1{
+    font-size:39px!important;
+   }
+   .freq h1{
+    font-size:40px!important;
+   }
+   .firstplubx li{
+    margin-left:-20px!important;
+    font-size:8px!important;
+    height:45px!important;
+    width:300px!important;
+   }
+   .plusimg{
+    margin-left:25px!important;
+    width:20px!important; height:20px!important;
+   }
+   .laprowimg{
+    margin-top:-10!important;
+   }
+   .whyus h1{
+    margin-left:-115px!important;
+   }
+   .ourser h1{
+    margin-left:-120px!important;
+   }
+   .hu1{
+    margin-left:35%!important;
+   }
+   .hu1h6{
+    margin-left:20%!important;
+   }
+   .hu1p{
+    margin-left:20%!important;
+   }
+   .hu2,.hu3,.hu4,.hu5{
+    margin-left:34%!important;
+   }
+   .hu6{
+    margin-left:35%!important;
+   }
+   .hu6h6{
+    margin-left:22%!important;
+   }
+   .hu6p{
+    margin-left:22%!important;
+   }
+   .hu7,.hu8,.hu9{
+    margin-left:33%!important;
+   }
+   .conus{
+    margin-left:-65px!important;
+
+   }
+   .adds{
+    margin-left:-100px!important;
+    height: 300px!important;
+   }
+   .adds h3{
+    margin-left:-175px!important;
+    font-size:12px!important;
+   }
+   .adds p{
+    margin-left:-175px!important;
+    font-size:8px!important;
+   }
+   .mails{
+    margin-top:-300px!important;
+    height:300px!important;
+   }
+   .nms span{
+    height:25px!important;
+   }
+   .nms input{
+    height:25px!important;
+   }
+   .tdx textarea{
+    height:160px!important;
+   }
+   .circle1,.circle2,.circle3,.circle4,.circle5,.circle6,.circle7{
+    height:130px!important;
+    width:130px!important;
+   }
+   .circle1{
+    margin-top:-45px!important;
+   }
+   .par1{
+    font-size:10px!important;
+    margin-left:-355px!important;
+    margin-top:55%!important;
+    
+   }
+   .circle2{
+    margin-left:-285px!important;
+    margin-top:-55%!important;
+   }
+   .par2{
+    font-size:10px!important;
+    margin-left:-255px!important;
+   }
 }
